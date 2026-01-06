@@ -1,5 +1,5 @@
 #!/bin/bash
 echo hello
-world=world
+world="world"
 echo '$world'
 echo "$world"
