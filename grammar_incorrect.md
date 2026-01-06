@@ -1,3 +1,3 @@
-This sentences is grammartically incorrect.
+This sentence is grammartically incorrect.
 Thank you.
-But I are not going to fix them.
+It is true,but I am not going to fix them.
